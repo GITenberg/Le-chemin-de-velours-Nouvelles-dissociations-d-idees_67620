@@ -1,0 +1,46 @@
+_repo: Le-chemin-de-velours-Nouvelles-dissociations-d-idees_67620
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Gourmont, Remy de
+    aliases:
+    - Gourmont, Rémy de
+    - Drexelius, J.
+    - Gourmont, Remye
+    - L'Ymagier
+    - Le Danois, N.
+    - De Gourmont, Remy
+    - Coffe, M.
+    - Gourmont, Remi de
+    birthdate: 1858
+    deathdate: 1915
+    gutenberg_agent_id: '6996'
+    url: http://www.gutenberg.org/2009/agents/6996
+    wikipedia:
+    - https://en.wikipedia.org/wiki/R%C3%A9my_de_Gourmont
+    - https://fr.wikipedia.org/wiki/Remy_de_Gourmont
+description: ''
+gutenberg_issued: '2022-03-13'
+identifiers:
+  gutenberg: '67620'
+language: fr
+pgterms:marc904: https://archive.org/details/lechemindevelour00gouruoft
+pgterms:marc905: 20201110142346degourmont
+pgterms:marc906: '1911'
+pgterms:marc907: FR
+production_note: Laurent Vogel and the Online Distributed Proofreading Team at https://www.pgdp.net
+  (This file was produced from images generously made available by The Internet Archive/Canadian
+  Libraries)
+publication_note: France :Mercure de France,1911.
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PQ'
+- !lcsh 'French essays'
+- GITenberg
+tableOfContents: Le chemin de velours -- La gloire et l'idée d'immortalité -- Le succès
+  et l'idée de beauté -- Valeur de l'instruction -- La femme et le langage -- L'idéalisme
+  -- Analyses et fragments.
+title: Le chemin de velours; Nouvelles dissociations d'idées
+url: http://www.gutenberg.org/ebooks/67620
